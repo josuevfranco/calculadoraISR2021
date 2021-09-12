@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Examen1parcial</string>
+    <string name="parrafo">Elija una de las opciones</string>
+    <string name="diario">ISR Diario</string>
+    <string name="semanal">ISR Semanal</string>
+    <string name="decenal">ISR Decenal</string>
+    <string name="quincenal">ISR Quincenal</string>
+    <string name="mensual">ISR Mensual</string>
+    <string name="aceptar">Salir</string>
+    <string name="title_activity_isr_semana">ISR_Semana</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="Calcular">Calcular</string>
+    <string name="ingresosT">Ingreso Total</string>
+    <string name="limiteInf">Limite Inferior</string>
+    <string name="resultado">Resultado</string>
+    <string name="base">Base</string>
+    <string name="tasa">Tasa</string>
+    <string name="impuestom">Impuesto Marginal</string>
+    <string name="cuotaFi">Cuota Fija</string>
+    <string name="impuestorete">Impuesto a Retener</string>
+    <string name="percepcione">Percepcion Efectiva</string>
+</resources>
